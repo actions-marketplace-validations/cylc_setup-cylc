@@ -22,7 +22,7 @@ jobs:
         uses: actions/checkout@v6
 
       - name: Setup Mamba
-        if: ${{ matrix.micromamba_installed }} == true
+        if: matrix.micromamba_installed == true
         uses: mamba-org/setup-micromamba@v2
 
       - name: Setup Cylc
