@@ -29,6 +29,7 @@ below:
 <!-- start-shortlog -->
  - Oliver Sanders
  - Tim Pillinger
+ - Ronnie Dutta
 <!-- end-shortlog -->
 
 (All contributors are identifiable with email addresses in the git version
