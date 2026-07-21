@@ -9,6 +9,7 @@
   ],
   "automergeStrategy": "squash",
   "minimumReleaseAge": "4 days",
+  "internalChecksFilter": "strict",
   "packageRules": [
     {
       "matchUpdateTypes": ["minor", "patch"],
